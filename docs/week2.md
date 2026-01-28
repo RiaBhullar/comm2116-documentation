@@ -8,13 +8,13 @@ During our last class, we covered a few topics, as well as doing work for our ma
 
 We covered usability factors in the last class. These are different factors used to measure the functional and aesthetic quality of the website.
 
-    1. Useful
-    2. Usable
-    3. Findable
-    4. Credible
-    5. Desirable
-    6. Accessible
-    7. Valuable
+    1. Useful: Is a product useful to its consumers?
+    2. Usable: Is a product easy to use for its consumers?
+    3. Findable: Is a product easy to find for its consumers?
+    4. Credible: Is a product trustworthy to its customers?
+    5. Desirable: Is a product something the consumers want?
+    6. Accessible: Is a product accessible to all its consumers?
+    7. Valuable: Is a product valuable to its consumers?
 
 ### Design Thinking
 
@@ -49,9 +49,9 @@ Finding competitors was slightly difficult. The way a city website is, there isn
 
 ### City of Surrey
 
-![Screenshot of the City of Surrey website's home page.](assets/surreyWebsite.png)
+![Screenshot of the City of Surrey website's home page.](assets/surreyWebsite.png "City of Surrey Home Page")
 
-I found that the City of Surrey was a suitable competitor in terms of being local and of a similar demographic. The cities of Surrey and Vancouver are very close geographically, and also have shared population and often work together. Below, I've attached an excerpt from my analysis.
+I found that the [City of Surrey](https://www.surrey.ca/) was a suitable competitor in terms of being local and of a similar demographic. The cities of Surrey and Vancouver are very close geographically, and also have shared population and often work together. Below, I've attached an excerpt from my analysis.
 
 > What the City of Surrey website does well is having a more branded and personable appearance. They follow their own style guide quite well, employing different greens to differentiate the quick links in a row while still grouping them together. They also have simple to understand quick links, putting down the most important things first without extra overload. Each interactive element looks and reacts to hovering the same, making the learning curve for users less steep.
 >
@@ -59,9 +59,9 @@ I found that the City of Surrey was a suitable competitor in terms of being loca
 
 ### City of Melbourne
 
-![Screenshot of the City of Melbourne website's home page](assets/melbourneWebsite.png)
+![Screenshot of the City of Melbourne website's home page](assets/melbourneWebsite.png "City of Melbourne Home Page")
 
-For my second competitor, I chose one that was far more international, but still English speaking, to get an idea for how things are designed and organized outside of North America. Below, I've included an excerpt of my analysis of the City of Melbourne website.
+For my second competitor, I chose one that was far more international, but still English speaking, to get an idea for how things are designed and organized outside of North America. Below, I've included an excerpt of my analysis of the [City of Melbourne](https://www.melbourne.vic.gov.au/) website.
 
 > The City of Melbourne does branding very well. It was difficult to find a file of their style guide, but internally the website is very consistent and pleasant to look at. The starting menu is also executed fairly well, not using many transitions or hovers so that the menu stays on screen when necessary. Each section has its own designated colour, which takes up the header on all information pages for that section. They also often provide other similar or recommended pages which allows for a natural flow through pages.
 >

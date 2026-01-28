@@ -1,7 +1,5 @@
 # Week 1 Documentation
 
-_A01454340 Ria Bhullar_.
-
 ## What were you tasked to do?
 
 This week, I was tasked to choose a website to redesign or rebuild.
@@ -16,7 +14,7 @@ I mostly relied on internet searches, looking around for local businesses. I pre
 
 The City of Vancouver information website.
 
-![Screenshot of the home page of the city of vancouver website](assets/vanWebsite.png)
+![Screenshot of the home page of the city of vancouver website](assets/vanWebsite.png "City of Vancouver Home Page")
 
 ## Why you choose this?
 
