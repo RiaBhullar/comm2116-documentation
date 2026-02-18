@@ -1,10 +1,10 @@
-# Week 2 Documentation
+# Design Thinking, Market Research, and Proposal
 
 ## Learning Overview
 
-During our last class, we covered a few topics, as well as doing work for our major project. We covered usability factors and design thinking, which will be covered after this. As well, we worked on doing market and competitor analysis.
+During our last class, we covered a few topics, as well as doing work for our major project. We covered usability factors and design thinking, which I will cover after this. As well, we worked on doing market and competitor analysis.
 
-### Usability Factors
+## Usability Factors
 
 We covered usability factors in the last class. These are different factors used to measure the functional and aesthetic quality of the website.
 
@@ -16,7 +16,7 @@ We covered usability factors in the last class. These are different factors used
     6. Accessible: Is a product accessible to all its consumers?
     7. Valuable: Is a product valuable to its consumers?
 
-### Design Thinking
+## Design Thinking
 
 Last class, we also learned design thinking. It is a multi step process to find and solve problems in an interface, using empathy and brainstorming as it's main methods.
 
@@ -35,7 +35,7 @@ Last class, we also learned design thinking. It is a multi step process to find 
 === "5. Test"
     Use the prototype as a test to see if it's solved the problem and get feedback.
 
-In terms of where I currently am, I'm on the first step of empathizing. As I'll go over in the next sections, My major progress for this week involves looking into the market and the website itself to find industry standards and existing problems.
+In terms of where I currently am, I'm on the first step of empathizing. As I go over in the next sections, my major progress for this week involves looking into the market and the website itself to find industry standards and existing problems.
 
 ## Market Analysis
 
@@ -55,7 +55,7 @@ I found that the [City of Surrey](https://www.surrey.ca/) was a suitable competi
 
 > What the City of Surrey website does well is having a more branded and personable appearance. They follow their own style guide quite well, employing different greens to differentiate the quick links in a row while still grouping them together. They also have simple to understand quick links, putting down the most important things first without extra overload. Each interactive element looks and reacts to hovering the same, making the learning curve for users less steep.
 >
-> However, the website struggles a fair bit with UX. For example, they employ a hamburger menu on the desktop version. On its own, that’s already a poor choice, but the menu requires further clicks to expose topics under each subject, increasing the steps unnecessarily. They also have issues with some HTML elements being visibly unaligned. While that doesn’t overall affect the site’s functionality, it can look unprofessional.
+> However, the website struggles a fair bit with UX (User Experience). For example, they employ a hamburger menu on the desktop version. On its own, that’s already a poor choice, but the menu requires further clicks to expose topics under each subject, increasing the steps unnecessarily. They also have issues with some HTML elements being visibly unaligned. While that doesn’t overall affect the site’s functionality, it can look unprofessional.
 
 ### City of Melbourne
 
@@ -69,7 +69,7 @@ For my second competitor, I chose one that was far more international, but still
 
 ## Project Proposal
 
-As of the time of writing this, I only have my proposal half complete. While I've completed competitive analysis, I am yet to finish the actual proposal. I'm currently brainstorming and going through the City of Vancouver website to find the main issues to better phrase my proposal. In terms of what I've already done, I've done a branding based analysis according to the cities existing style guide. I've included an excerpt of what I do have below. In it, I'm discussing the specific usability factors I feel could be improved.
+As of the time of writing this, I have my proposal half complete. While I've completed competitive analysis, I am yet to finish the actual proposal. I'm currently brainstorming and going through the City of Vancouver website to find the main issues to better phrase my proposal. In terms of what I've already done, I've done a branding based analysis according to the cities existing style guide. I've included an excerpt of what I do have below. In it, I'm discussing the specific usability factors that could improve.
 
 > In terms of desirability, I link it back to the lack of branding on the site. The City of Vancouver style guide details a colour palette of blue, green, and gray. However, the website almost always uses blue, with bits of gray. Adhering more to how city advertising looks with colours and less unapproachability could make the site more appealing to a common user.
 As mentioned with the menus, findability is also an issue. Finding a specific topic in the menus themselves is difficult, leading to the search bar being used often. However, the search can also be unreliable at times.

@@ -1,19 +1,9 @@
-# Welcome to MkDocs
+---
+title: Home
+---
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## My Communications Documentation
 
-## Commands
+This site is intended to document my progress going through a major project in my UX/UI course, as well as learning the documentation process in my Communications course.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-I like to drink :beers: after I played :soccer:
+This site is intended to be read by employers, as well as my professor for this course. The tone I aimed for while writing this documentation was mostly professional. While I tried to avoid cold or detached language, I also tried not to be too casual with the reader.  
