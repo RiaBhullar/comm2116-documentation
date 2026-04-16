@@ -6,8 +6,8 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  logo: assets/pearbaby.webp
-  favicon: assets/apple.png
+  logo: assets/starIcon.png
+  favicon: assets/starIcon.png
   features:
     - navigation.footer
   palette: 
@@ -16,16 +16,16 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark Mode
-      primary: lime
-      accent: deep purple
+      primary: blue
+      accent: lime
 
     #Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light Mode
-      primary: lime
-      accent: deep orange
+      primary: indigo
+      accent: light green
 
 markdown_extensions:
   - attr_list
