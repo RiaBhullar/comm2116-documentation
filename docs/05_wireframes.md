@@ -18,7 +18,7 @@ The second wireframe below is for an individual event page, which would be found
 
 ## User Testing
 
-User testing is done to get realistic user feedback on the proposed design of a project. In terms of this project, it was done by giving the tester one of my user scenarios, and having them tell me what they wanted to navigate to on each page. When they chose somewhere to navigate, I would swap out the current wireframe for the one they'd navigated to. This was all done without giving the tester guidance, so I could see how a hypothetical user would treat my design. Below, I've attached some notes I took during the first trial.
+User testing is done to get realistic user feedback on the proposed design of a project. For this project, it was done by giving the tester one of my user scenarios, and having them try to complete it. When they chose somewhere to navigate, I would swap out the current wireframe for the one they'd navigated to. Below, I've attached some notes I took during the first trial.
 
 > **User Testing Round 1 Notes**  
 > **Prompt 1**  
